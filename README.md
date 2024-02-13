@@ -5,3 +5,5 @@ To ensure a smooth and hassle-free experience, we recommend running this noteboo
 
 Paper link
 https://journals.sagepub.com/doi/10.1177/14759217231206178
+Colab link:
+https://colab.research.google.com/github/Sadeqk94/Conv3D-and-MultiTask-learning-in-SHM/blob/main/Conv3D_and_MTL_in_SHM.ipynb
